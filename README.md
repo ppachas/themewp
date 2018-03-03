@@ -1,0 +1,2 @@
+# themewp
+Tema Wordpress
